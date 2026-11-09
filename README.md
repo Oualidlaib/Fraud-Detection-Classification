@@ -14,9 +14,6 @@ Detecting fraudulent card transactions on a heavily imbalanced dataset of about 
 | Verification | `avs_match`, `cvv_result`, `three_ds_flag` |
 | Target | `is_fraud` |
 
-<!-- TODO: add the dataset source link and licence here -->
-
-The CSV is not included in this repository. Place it at `data/raw/transactions.csv` before running the notebook.
 
 ## Approach
 
