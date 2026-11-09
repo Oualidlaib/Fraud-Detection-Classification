@@ -1,6 +1,6 @@
 # Fraud Detection Classification
 
-Detecting fraudulent card transactions on a heavily imbalanced dataset of about 300,000 transactions. The notebook builds time- and behaviour-based features, compares five classifiers with stratified cross-validation, and evaluates the chosen gradient boosting model on a held-out test set.
+Detecting fraudulent card transactions on a heavily imbalanced dataset of about 300,000 transactions. The notebook builds time- and behaviour-based features, compares four classifiers with stratified cross-validation, and evaluates the chosen gradient boosting model on a held-out test set.
 
 ## Dataset
 
